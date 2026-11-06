@@ -65,7 +65,11 @@ This repository is still in preparation, but it will shortly contain at least th
 * The _Chimera 4.2 Programmers's Guide_, an MS Word (or PDF) document of ~1200 pages.
 * The _Chimera 4.2 Hardware Guide_, an MS Word (or PDF) document of ~150 pages.
 * The presentation _What Chimera Is All About_, an MS PowerPoint (or PDF) deck of ~100 slides.
+
+And possibly, eventually:
+
 * The presentation _An Introduction the Chimera Architecture_, an MS PowerPoint (or PDF) deck of ~1700 slides.
+* Chimera's compiler and simulator, header files, and sample firmware.
 
 Questions, inquiries, and comments are always welcome!
 
