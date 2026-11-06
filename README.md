@@ -6,7 +6,7 @@ that combine fast, nimble control with a significant amount of computation.
 
 Chimera was designed at [Synaptics, Inc.](https://www.synaptics.com), where it has appeared
 in a variety of touch and touchscreen controller chips since 2003, following upon other
-CPUs developed at Synaptics going back to the mid-1990. Chimera is sometimes used alone,
+CPUs developed at Synaptics going back to the mid-1990s. Chimera is sometimes used alone,
 but it is often paired with Synaptics' vector arithmetic coprocessor, Hydra.
 
 ---
@@ -65,6 +65,7 @@ This repository is still in preparation, but it will shortly contain at least th
 * The _Chimera 4.2 Programmers's Guide_, an MS Word (or PDF) document of ~1200 pages.
 * The _Chimera 4.2 Hardware Guide_, an MS Word (or PDF) document of ~150 pages.
 * The presentation _What Chimera Is All About_, an MS PowerPoint (or PDF) deck of ~100 slides.
+* The presentation _An Introduction the Chimera Architecture_, an MS PowerPoint (or PDF) deck of ~1700 slides.
 
 Questions, inquiries, and comments are always welcome!
 
