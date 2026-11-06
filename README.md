@@ -18,7 +18,7 @@ As the market for Synaptics touch chips has broadened, and more and more
 people are interested in programming Synaptics touch chips, we have decided to open up these architectures to the
 general public.
 
-Initially, the specifications and related documentation for Chimera and Hydra will appear in this github repository
+Initially, the specifications and related documentation for Chimera and Hydra will appear in this GitHub repository
 and in Hydra's companion repository:
 
 * https://github.com/synaptics-public/synaptics-chimera
